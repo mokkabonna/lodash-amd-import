@@ -1,7 +1,7 @@
 {
   "name": "lodash-amd-import",
   "main": "./lib/lodash-amd-import",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Automatically imports used lodash modules in your code.",
   "keywords": [],
   "repository": "https://github.com/mokkabonna/lodash-amd-import",
