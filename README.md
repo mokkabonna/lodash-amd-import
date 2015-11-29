@@ -33,3 +33,5 @@ define([
 ```
 
 just with a keystroke.
+
+No longer used modules will be removed as well. The import list is always sorted.
