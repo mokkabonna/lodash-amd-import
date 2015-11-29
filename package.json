@@ -1,0 +1,15 @@
+{
+  "name": "lodash-amd-import",
+  "main": "./lib/lodash-amd-import",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/mokkabonna/lodash-amd-import",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}

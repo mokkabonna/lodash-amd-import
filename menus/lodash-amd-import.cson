@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Import used lodash modules'
+      'command': 'lodash-amd-import:import'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Lodash AMD Import'
+      'submenu': [
+        {
+          'label': 'Import based on usage'
+          'command': 'lodash-amd-import:import'
+        }
+      ]
+    ]
+  }
+]
