@@ -35,3 +35,5 @@ define([
 just with a keystroke.
 
 No longer used modules will be removed as well. The import list is always sorted.
+
+**Currently only works if there is an existing _!... statement present.**
